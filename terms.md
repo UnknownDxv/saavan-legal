@@ -1,3 +1,8 @@
+---
+layout: default
+title: Terms of Service — Saavan
+---
+
 # Terms of Service — Saavan
 
 **Effective Date:** 12 August 2026
