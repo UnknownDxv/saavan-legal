@@ -1,3 +1,8 @@
+---
+layout: default
+title: Privacy Policy — Saavan
+---
+
 # Privacy Policy — Saavan
 
 **Effective Date:** 12 August 2026
